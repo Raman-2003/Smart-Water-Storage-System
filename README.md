@@ -1,4 +1,4 @@
 # Smart-Water-Storage-System
 
-![image](https://github.com/user-attachments/assets/767bc368-0b9f-4d3e-bd0b-416434e8c748)
-
+This is a smart system that canautomatically store water in a tank when a certain level reach by automatically turning on the motor that bring water to tank.
+It can detect that weather water is available to fill tank or not.
